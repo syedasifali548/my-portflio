@@ -50,7 +50,9 @@ const Projects = () => {
 
 
                 }>All</div>
+                <div className={active === 'fyp' && 'projects__navbar-active'} onClick={() => handleFilterCategory('fyp')}>FYP</div>
                 <div className={active === 'react.js' && 'projects__navbar-active'} onClick={() => handleFilterCategory('react.js')}>React</div>
+                <div className={active === 'mern' && 'projects__navbar-active'} onClick={() => handleFilterCategory('mern')}>MERN Stack</div>
                 <div className={active === 'vanilla' && 'projects__navbar-active'} onClick={() => handleFilterCategory('vanilla')}>Javascript</div>
             </div>
 

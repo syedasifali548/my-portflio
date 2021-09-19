@@ -36,9 +36,6 @@ a:hover {
     height: 86vh;
 }
 
-
-
-
 .app__main-content {
     background-color: #fff;
     border-radius: 20px;
@@ -57,10 +54,10 @@ a:hover {
 }
 
 .sidebar__avatar {
-    height: 110px;
-    width: 120px;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
     object-fit: contain;
-    border-radius: 30px;
 }
 
 .sidebar__icon {
@@ -248,13 +245,13 @@ a:hover {
 
 /* projects */
 .projects {
-    height: 70vh;
-    padding-top: 30px;
+    height: 75vh;
+    padding-top: 50px;
     overflow-y: auto;
 }
 
 .projectCard__wrapper {
-    margin: 10px 0;
+    margin: 8px 0;
     width: 100%;
     height: 100%;
     min-height: 160px;
@@ -262,7 +259,7 @@ a:hover {
 
 .projectCard__image {
     width: 100%;
-    height: 80%;
+    height: 70%;
     border-radius: 30px;
     border: 1px solid #00F260;
     transition: transform 0.3s linear;
@@ -275,7 +272,7 @@ a:hover {
 .projectCard__icon {
     width: 25px;
     height: 25px;
-    margin-right: 5px;
+    margin-right: 6px;
 }
 
 .projectCard__title {
@@ -293,7 +290,7 @@ a:hover {
 }
 
 .projects__navbar>div {
-    margin: 0 5px;
+    margin: 0 10px;
     font-size: 1rem;
     cursor: pointer;
 }

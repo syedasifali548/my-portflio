@@ -3,11 +3,6 @@ import python from '../../assets/icons/python.svg'
 
 const languages = [
     
-    // {
-    //     icon: react,
-    //     name: 'Java',
-    //     level: '60'
-    // },
     {
         icon: react,
         name: 'HTML',
@@ -15,29 +10,51 @@ const languages = [
     },
     {
         icon: react,
-        name: 'CSS',
+        name: 'CSS/SAAS',
         level: '92'
     },
     {
         icon: react,
-        name: 'Javascript',
-        level: '85'
+        name: 'Bootstrap',
+        level: '95'
     },
     {
         icon: react,
-        name: 'React',
+        name: 'Javascript/ES6',
+        level: '90'
+    },
+    {
+        icon: react,
+        name: 'React Js',
+        level: '80'
+    },
+    {
+        icon: react,
+        name: 'Redux',
+        level: '80'
+    },
+    {
+        icon: react,
+        name: 'Node Js',
+        level: '70'
+    },
+    {
+        icon: react,
+        name: 'Express Js',
+        level: '70'
+    },
+    {
+        icon: react,
+        name: 'MongoDB',
         level: '75'
     },
-    // {
-    //     icon: react,
-    //     name: 'Django',
-    //     level: '80'
-    // },
     {
         icon: react,
-        name: 'Bootstrap',
-        level: '85'
+        name: 'Firebase',
+        level: '75'
     },
+
+   
      {
             icon: python,
             name: 'Core Python',
@@ -51,21 +68,12 @@ const tools = [
         name: 'VS Code',
         level: '85'
     },
-    // {
-    //     icon: react,
-    //     name: 'Photoshop',
-    //     level: '45'
-    // },
-    // {
-    //     icon: react,
-    //     name: 'Illustrator',
-    //     level: '60'
-    // },
-    // {
-    //     icon: react,
-    //     name: 'Framer',
-    //     level: '45'
-    // },
+    {
+        icon: react,
+        name: 'Sublime editor',
+        level: '65'
+    },
+   
 
 ]
 

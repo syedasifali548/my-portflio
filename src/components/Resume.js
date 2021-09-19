@@ -40,28 +40,15 @@ const Resume = () => {
                     </h4>
                     <div className="resume-card__body">
                         <h5 className="resume-card__title">
-                            Computer Systems Enginnering
+                            Computer Systems Engineering
                         </h5>
                         <p className="resume-card__name">
-                            Dawood University of Engineering and Technology , karachi(2017-2020)
+                            Dawood University of Engineering and Technology , karachi(2017-2021)
                         </p>
                         <p className="resume-card__details">I am currently fresh graduated as a CS Engineer</p>
                     </div>
                 </div>
-                {/* <div className="col-lg-6 resume-card" >
-                    <h4 className="resume-card__heading">
-                        Experience
-                    </h4>
-                    <div className="resume-card__body">
-                        <h5 className="resume-card__title">
-                            Intern
-                        </h5>
-                        <p className="resume-card__name">
-                            TCS (2020)
-                        </p>
-                        <p className="resume-card__details">I work as a intern in TCS and also completed some projects on testing</p>
-                    </div>
-                </div> */}
+              
             </div>
 
             <div className="row">
